@@ -6,8 +6,11 @@
 **Data Analyst · Miami, FL**
 
 🏥 Currently at the University of Miami Miller School of Medicine
+
 🎓 Three degrees from the University of Miami
+
 🌎 Fluent in English and Spanish
+
 🔧 Pipelines, dashboards, and automation tools that turn institutional data into decisions
 
 ---
