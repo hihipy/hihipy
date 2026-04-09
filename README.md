@@ -1,9 +1,7 @@
 # Hi there, I'm Philip! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hihipy&color=blue&style=flat)](https://github.com/hihipy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:code-pgbd@pm.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bit.ly%2Fm%2Fpgbd-lightgrey?style=flat)](https://bit.ly/m/pgbd)
 
 **Data Analyst · Miami, FL**
 
@@ -36,8 +34,3 @@ degrees from UM. Published researcher. Fluent in English and Spanish.
 | [Qualtrics Pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Transforms raw Qualtrics exports into clean datasets, codebooks, and HTML reports |
 | [25Live Cleaner](https://github.com/hihipy/25live_cleaner) | Cleaned 3,606 room bookings across 45 spaces over 20 months |
 | [AI CSV Profiler](https://github.com/hihipy/ai_csv_profiler) | AI-powered profiling tool for rapid dataset analysis |
-
----
-
-![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hihipy&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hihipy&layout=compact&theme=dark&hide_border=true)
