@@ -30,10 +30,10 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🏥 [BRIMR Downloader](https://github.com/hihipy/brimr_downloader) | Automated 19 years of NIH funding downloads, cutting 8-10 hours to 13 minutes |
-| 📊 [PBI Model Export](https://github.com/hihipy/PBI-Model-Export) | Exports full Power BI model (94 DAX measures, relationships, RLS) to JSON |
-| 📋 [Qualtrics Pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Transforms raw Qualtrics exports into clean datasets, codebooks, and HTML reports |
-| 🗓️ [25Live Cleaner](https://github.com/hihipy/25live_cleaner) | Cleaned 3,606 room bookings across 45 spaces over 20 months |
-| 🤖 [AI CSV Profiler](https://github.com/hihipy/ai_csv_profiler) | AI-powered profiling tool for rapid dataset analysis |
+| Project | What It Does | Why It's Useful |
+|---|---|---|
+| 🏥 [BRIMR Downloader](https://github.com/hihipy/brimr_downloader) | Downloads and organizes NIH research funding data from the Blue Ridge Institute website | Eliminates hours of manual downloading when you need historical grant funding data for analysis |
+| 📊 [PBI Model Export](https://github.com/hihipy/PBI-Model-Export) | Exports a complete Power BI data model to a portable JSON file | Makes it easy to document, audit, or feed your entire model structure to an AI for analysis |
+| 📋 [Qualtrics Pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Cleans and restructures raw Qualtrics survey exports into analysis-ready datasets | Skips hours of manual cleanup and gives you a codebook and typed data out of the box |
+| 🗓️ [25Live Cleaner](https://github.com/hihipy/25live_cleaner) | Parses and cleans room booking exports from the 25Live campus scheduling system | Turns unusable raw scheduling exports into structured data ready for occupancy analysis |
+| 🤖 [AI CSV Profiler](https://github.com/hihipy/ai_csv_profiler) | Profiles any CSV file using AI to summarize its structure, data types, and content | Lets you understand a new dataset instantly without writing a single line of exploratory code |
