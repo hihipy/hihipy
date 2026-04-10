@@ -13,32 +13,32 @@
 
 🔧 Pipelines, dashboards, and automation tools that turn institutional data into decisions
 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://r-project.org)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://java.com)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/dax/)
 [![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/cognos-analytics)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)](https://ggplot2.tidyverse.org)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io)
+[![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://selenium.dev)
-[![Qualtrics](https://img.shields.io/badge/Qualtrics-00BEF0?style=flat&logo=qualtrics&logoColor=white)](https://qualtrics.com)
-[![Workday](https://img.shields.io/badge/Workday-F5820D?style=flat&logo=workday&logoColor=white)](https://workday.com)
-[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)](https://powerautomate.microsoft.com)
+[![Qualtrics](https://img.shields.io/badge/Qualtrics-00BEF0?style=flat&logo=qualtrics&logoColor=white)](https://qualtrics.com)
+[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
 [![Smartsheet](https://img.shields.io/badge/Smartsheet-00A550?style=flat&logo=smartsheet&logoColor=white)](https://smartsheet.com)
-[![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)](https://quarto.org)
+[![Workday](https://img.shields.io/badge/Workday-F5820D?style=flat&logo=workday&logoColor=white)](https://workday.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://latex-project.org)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)](https://quarto.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 
 ---
 
@@ -46,12 +46,12 @@
 
 | Category | Tools |
 |---|---|
-| 🐍 Languages | Python, R, SQL, Bash, C#, VBA, Java |
-| 📊 BI & Reporting | Power BI, DAX, IBM Cognos Analytics |
-| 🏢 Enterprise Systems | Workday, Qualtrics, SharePoint, Power Automate, Smartsheet |
-| 📦 Libraries | pandas, numpy, ggplot2, Selenium, spaCy |
-| 📝 Reproducibility | Quarto, Jupyter, LaTeX, Markdown |
-| ⚙️ Dev Tools | Git, Tabular Editor 2, Docker |
+| 🐍 Languages | Bash, C#, Java, Python, R, SQL, VBA |
+| 📊 BI & Reporting | DAX, IBM Cognos Analytics, Power BI |
+| 📦 Libraries | ggplot2, numpy, pandas, Selenium, spaCy |
+| 🏢 Enterprise Systems | Power Automate, Qualtrics, SharePoint, Smartsheet, Workday |
+| 📝 Reproducibility | Jupyter, LaTeX, Markdown, Quarto |
+| ⚙️ Dev Tools | Docker, Git, Tabular Editor 2 |
 
 ---
 
