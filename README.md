@@ -16,6 +16,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://r-project.org)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://java.com)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
@@ -45,7 +46,7 @@
 
 | Category | Tools |
 |---|---|
-| 🐍 Languages | Python, R, SQL, C#, VBA, Java |
+| 🐍 Languages | Python, R, SQL, Bash, C#, VBA, Java |
 | 📊 BI & Reporting | Power BI, DAX, IBM Cognos Analytics |
 | 🏢 Enterprise Systems | Workday, Qualtrics, SharePoint, Power Automate, Smartsheet |
 | 📦 Libraries | pandas, numpy, ggplot2, Selenium, spaCy |
