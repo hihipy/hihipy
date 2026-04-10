@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:code-pgbd@pm.me)
 
-**Data Analyst · Miami, FL**
+**Data Analyst | Miami, FL**
 
 🏥 Currently at the University of Miami Miller School of Medicine
 
