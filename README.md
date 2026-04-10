@@ -39,6 +39,7 @@
 [![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)](https://quarto.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Tabular Editor 2](https://img.shields.io/badge/Tabular%20Editor%202-000000?style=flat&logo=microsoftpowerbi&logoColor=white)](https://tabulareditor.com)
 
 ---
 
