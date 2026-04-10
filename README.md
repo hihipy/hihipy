@@ -31,7 +31,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://selenium.dev)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)](https://powerautomate.microsoft.com)
-[![Qualtrics](https://img.shields.io/badge/Qualtrics-00BEF0?style=flat&logoColor=white)](https://qualtrics.com)
+[![Qualtrics](https://img.shields.io/badge/Qualtrics-00BEF0?style=flat&logo=qualtrics&logoColor=white)](https://qualtrics.com)
 [![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
 [![Smartsheet](https://img.shields.io/badge/Smartsheet-00A550?style=flat&logoColor=white)](https://smartsheet.com)
 [![Workday](https://img.shields.io/badge/Workday-F5820D?style=flat&logoColor=white)](https://workday.com)
