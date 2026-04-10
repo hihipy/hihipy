@@ -35,6 +35,7 @@
 [![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)](https://quarto.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://latex-project.org)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 
@@ -48,7 +49,7 @@
 | 📊 BI & Reporting | Power BI, DAX, IBM Cognos Analytics |
 | 🏢 Enterprise Systems | Workday, Qualtrics, SharePoint, Power Automate, Smartsheet |
 | 📦 Libraries | pandas, numpy, ggplot2, Selenium, spaCy |
-| 📝 Reproducibility | Quarto, Jupyter, LaTeX |
+| 📝 Reproducibility | Quarto, Jupyter, LaTeX, Markdown |
 | ⚙️ Dev Tools | Git, Tabular Editor 2, Docker |
 
 ---
