@@ -18,7 +18,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://r-project.org)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.iso.org/standard/76583.html)
 [![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 [![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)](https://learn.microsoft.com/en-us/dax/)
 [![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/cognos-analytics)
