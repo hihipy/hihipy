@@ -1,6 +1,6 @@
-# Hi there, I'm Philip! 👋
+# Weclome to Philip's GitHub Page
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst;From+Humanities+to+Data+Analytics;From+Raw+Data+to+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst;From+Humanities+to+Data+Analytics;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:code-pgbd@pm.me)
