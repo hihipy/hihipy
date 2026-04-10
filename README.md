@@ -1,4 +1,4 @@
-# Weclome to Philip's GitHub Page
+# Welcome to Philip's GitHub Page
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst;From+Humanities+to+Data+Analytics;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
