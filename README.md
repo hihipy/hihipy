@@ -32,9 +32,9 @@
 
 | Project | What It Does | Why It's Useful |
 |---|---|---|
-| 🗓️ [25Live Cleaner](https://github.com/hihipy/25live_cleaner) | Parses and cleans room booking exports from the 25Live campus scheduling system | Turns unusable raw scheduling exports into structured data ready for occupancy analysis |
-| 🤖 [AI CSV Profiler](https://github.com/hihipy/ai_csv_profiler) | Profiles any CSV file using AI to summarize its structure, data types, and content | Lets you understand a new dataset instantly without writing a single line of exploratory code |
-| 🏥 [BRIMR Downloader](https://github.com/hihipy/brimr_downloader) | Downloads and organizes NIH research funding data from the Blue Ridge Institute website | Eliminates hours of manual downloading when you need historical grant funding data for analysis |
-| 📊 [PBI Model Export](https://github.com/hihipy/PBI-Model-Export) | Exports a complete Power BI data model to a portable JSON file | Makes it easy to document, audit, or feed your entire model structure to an AI for analysis |
-| 📋 [Qualtrics Pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Cleans and restructures raw Qualtrics survey exports into analysis-ready datasets | Skips hours of manual cleanup and gives you a codebook and typed data out of the box |
-| 📝 [Qualtrics Report Generator](https://github.com/hihipy/qualtrics-report-generator) | Converts Qualtrics CSV and QSF exports into formatted HTML reports | Makes institutional survey data readable for reviewers without any manual formatting |
+| 🗓️ [25live-cleaner](https://github.com/hihipy/25live-cleaner) | Parses and cleans room booking exports from the 25Live campus scheduling system | Turns unusable raw scheduling exports into structured data ready for occupancy analysis |
+| 🤖 [ai-csv-profiler](https://github.com/hihipy/ai-csv-profiler) | Profiles any CSV file using AI to summarize its structure, data types, and content | Lets you understand a new dataset instantly without writing a single line of exploratory code |
+| 🏥 [brimr-downloader](https://github.com/hihipy/brimr-downloader) | Downloads and organizes NIH research funding data from the Blue Ridge Institute website | Eliminates hours of manual downloading when you need historical grant funding data for analysis |
+| 📊 [PBI-Model-Export](https://github.com/hihipy/PBI-Model-Export) | Exports a complete Power BI data model to a portable JSON file | Makes it easy to document, audit, or feed your entire model structure to an AI for analysis |
+| 📋 [qualtrics-processing-pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Cleans and restructures raw Qualtrics survey exports into analysis-ready datasets | Skips hours of manual cleanup and gives you a codebook and typed data out of the box |
+| 📝 [qualtrics-report-generator](https://github.com/hihipy/qualtrics-report-generator) | Converts Qualtrics CSV and QSF exports into formatted HTML reports | Makes institutional survey data readable for reviewers without any manual formatting |
