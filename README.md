@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pgbd.casa-2F81F7?style=flat&logo=hugo&logoColor=white)](https://pgbd.casa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:code-pgbd@pm.me)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:helloworld-pgbd@pm.me)
 
 🏥 Currently at the University of Miami Miller School of Medicine
 
