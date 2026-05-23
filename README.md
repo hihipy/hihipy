@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst+%7C+Miami%2C+FL%2C+USA;From+Humanities+to+Data+Analytics;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pgbd.casa-2F81F7?style=flat&logo=hugo&logoColor=white)](https://pgbd.casa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=protonmail)](mailto:code-pgbd@pm.me)
 
@@ -38,3 +39,4 @@
 | 📊 [pbi-model-export](https://github.com/hihipy/pbi-model-export) | Exports a complete Power BI data model to a portable JSON file | Makes it easy to document, audit, or feed your entire model structure to an AI for analysis |
 | 📋 [qualtrics-processing-pipeline](https://github.com/hihipy/qualtrics-processing-pipeline) | Cleans and restructures raw Qualtrics survey exports into analysis-ready datasets | Skips hours of manual cleanup and gives you a codebook and typed data out of the box |
 | 📝 [qualtrics-report-generator](https://github.com/hihipy/qualtrics-report-generator) | Converts Qualtrics CSV and QSF exports into formatted HTML reports | Makes institutional survey data readable for reviewers without any manual formatting |
+| 🩻 [sql-x-ray](https://github.com/hihipy/sql-x-ray) | Dumps any SQL database's structure (no data values) as priming context for an LLM | Gives an LLM everything it needs to write correct queries against your schema without ever exposing a single row of data |
