@@ -1,6 +1,6 @@
 # Welcome to Philip's GitHub Page
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst+%7C+Miami%2C+FL%2C+USA;From+Humanities+to+Data+Analytics;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Analyst+II+%7C+Miami%2C+FL%2C+USA;From+Humanities+to+Data+Analytics;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pgbd.casa-2F81F7?style=flat&logo=hugo&logoColor=white)](https://pgbd.casa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pbachas/)
