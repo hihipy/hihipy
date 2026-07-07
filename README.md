@@ -10,7 +10,7 @@
 
 🎓 University of Miami: BA History | MA International Administration | MS Business Analytics
 
-🌎 Fluent in English & Spanish
+🌎 Fluent in English and Spanish
 
 🔧 Pipelines, dashboards, and automation tools that turn institutional data into decisions
 
