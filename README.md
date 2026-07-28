@@ -12,7 +12,7 @@
 
 🌎 Fluent in English & Spanish
 
-🔧 Pipelines, dashboards, and automation tools that turn institutional data into decisions
+🔧 Pipelines, Dashboards, & Automation Tools That Turn Institutional Data into Decisions
 
 ---
 
