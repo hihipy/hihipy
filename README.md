@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-Everything below appears in some capacity across my repositories.
+Below is a selection of tools and technologies featured across my repositories and professional experience:
 
 | Category | Tools |
 |---|---|
