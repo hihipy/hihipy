@@ -36,9 +36,11 @@ Below is a selection of tools and technologies featured across my repositories a
 
 ## 🔬 Selected Analysis
 
-**[Multi-Campus NCLEX-RN Outcomes Analysis](https://pgbd.casa/archivo/penobscot-nclex/)** — 7,635 exam attempts across 19 campuses, in a normalized SQLite database, published reproducibly through Datasette Lite.
+| Analysis | What It Does | Why It's Useful |
+|---|---|---|
+| 📐 [Multi-Campus NCLEX-RN Outcomes](https://pgbd.casa/archivo/penobscot-nclex/) | 7,635 exam attempts across 19 campuses in a normalized SQLite database, with pass rates and 95% confidence intervals computed in pure SQL and a logistic model fit in R | Shows the whole path from raw data to a defended conclusion, published reproducibly through Datasette Lite so anyone can rerun it |
 
-Pass rates with 95% confidence intervals computed in pure SQL using window functions and multi-CTE retake funnels, with the small-sample limits stated rather than hidden. A logistic regression in R traced the discrimination ceiling to feature availability rather than model class. Outcomes are synthetic over a real structural skeleton, so the write-up is explicit about what it can and cannot claim.
+*Outcomes are synthetic over a real structural skeleton. The write-up is explicit about what it can and cannot claim.*
 
 ---
 
