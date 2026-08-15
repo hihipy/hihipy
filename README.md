@@ -1,6 +1,6 @@
 # Welcome to Philip's GitHub Page
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=History+Major+Who+Ships+Code;Go%2C+Python%2C+SQL%2C+C%23%2C+JavaScript%2C+VBA;Whatever+the+Problem+Needs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=History+Major+Turned+Data+Analyst;Go%2C+Python%2C+SQL%2C+C%23%2C+JavaScript%2C+VBA;Pipelines%2C+Dashboards%2C+Automation)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pgbd.casa-FF4088?style=flat&logo=hugo&logoColor=white)](https://pgbd.casa)
 [![Resume](https://img.shields.io/badge/Resume-View-0D9488?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik02IDIuNzVoNy41TDE4LjI1IDcuNVYyMC41YTEgMSAwIDAgMS0xIDFINmExIDEgMCAwIDEtMS0xVjMuNzVhMSAxIDAgMCAxIDEtMXoiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjciIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTEzLjI1IDN2NC4yNWg0LjI1IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS43IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BCjxwYXRoIGQ9Ik04IDEyaDhNOCAxNWg4TTggMThoNSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BCjwvc3ZnPg%3D%3D)](https://pgbd.casa/puerta/)
