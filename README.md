@@ -13,8 +13,6 @@
 
 💬 English and Spanish (native), Catalan (intermediate)
 
-🧩 Humanities Training, Analytics Practice: Pipelines, Dashboards, & Automation Tools
-
 ---
 
 ## 🧱 Tech Stack
